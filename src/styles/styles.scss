@@ -1,0 +1,14 @@
+@import './variables';
+@import './reset';
+@import './flex';
+
+@import "fonts";
+@import "type";
+
+@import "button";
+@import "icons";
+
+* {
+    margin: 0;
+    padding: 0;
+}
